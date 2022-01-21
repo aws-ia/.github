@@ -1,4 +1,5 @@
 ## Joining Alpha program
+
 This program is currently in alpha stage and is limited access.  If you are interested in joining please reach out to aws-ia-eng@amazon.com
 
 # Contributing Guidelines
@@ -22,8 +23,8 @@ reported the issue. Please try to include as much information as you can. Detail
 * Any modifications you've made relevant to the bug
 * Anything unusual about your environment or deployment
 
-
 ## Contributing via Pull Requests
+
 Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that:
 
 1. You are working against the latest source on the *master* branch.
